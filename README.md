@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎯 Junior Data Analyst | 📍 Cairo, Egypt<br>📧 abdulrahmanmagdy732@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-magdy/) |
 
-🚀 About Me<br>I'm a detail-oriented Data Analyst passionate about transforming data into actionable insights. I have a strong foundation in SQL, Python, Excel, and Power BI, and I enjoy solving real-world problems using clean, structured data and clear visualizations.<br><br>🔎 My approach combines analytical thinking with strong storytelling, aiming to support better decisions through data.
+🚀 I'm a detail-oriented Data Analyst passionate about transforming data into actionable insights. I have a strong foundation in SQL, Python, Excel, and Power BI, and I enjoy solving real-world problems using clean, structured data and clear visualizations.<br><br>🔎 My approach combines analytical thinking with strong storytelling, aiming to support better decisions through data.
 
 
 # 💻 Tech Stack:
