@@ -3,15 +3,6 @@
 
 🚀 I'm a detail-oriented Data Analyst passionate about transforming data into actionable insights. I have a strong foundation in SQL, Python, Excel, and Power BI, and I enjoy solving real-world problems using clean, structured data and clear visualizations.<br><br>🔎 My approach combines analytical thinking with strong storytelling, aiming to support better decisions through data.
 
-  <p align="center">
-    <a href="https://www.google.com.eg/search?q=abdulrahmanmagdy01"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
-  </p>
-
-  <p align="center">
-    <a href="https://www.google.com.eg/search?q=abdulrahmanmagdy01"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=abdulrahmanmagdy01&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
-  </p>
 
 
 # 💻 Tech Stack:
